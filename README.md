@@ -1,7 +1,6 @@
 # My-Tech-Interview-Preparation
 Data structure, algorithms, design patterns and system design
 
-
 ## Video links
 
 https://www.youtube.com/@NeetCode
